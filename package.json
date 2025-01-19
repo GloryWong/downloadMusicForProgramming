@@ -56,13 +56,13 @@
     "@types/configstore": "^6.0.2",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^18.19.71",
-    "@vitest/coverage-istanbul": "^2.1.8",
+    "@vitest/coverage-istanbul": "^3.0.1",
     "eslint": "^9.18.0",
     "lint-staged": "^15.4.0",
     "simple-git-hooks": "^2.11.1",
     "type-fest": "^4.32.0",
     "typescript": "^5.7.3",
-    "vitest": "^2.1.8"
+    "vitest": "^3.0.1"
   },
   "simple-git-hooks": {
     "commit-msg": "pnpm commitlint --edit ${1}",
